@@ -1,0 +1,12 @@
+ul{
+    border: 2px solid tomato;
+}
+body{
+    border: 2px solid cyan;
+}
+section{
+    border: 2px solid pink;
+}
+#item-2{
+    border: 2px solid lightblue;
+}
